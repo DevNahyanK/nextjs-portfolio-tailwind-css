@@ -4,22 +4,22 @@
             "title": "Fullstack Developer",
             "company": "Freelancing",
             "tasks": "Building modern web applications with API integration such as landingpages and dashboards",
-            "tags": ["NextJS", "React", "Typescript", "REST", "GraphQL"],
+            "tags": ["NextJS", "React", "Typescript", "web development", "python"],
+            "year": "2023"
+        },
+        {
+            "title": "WebWizard",
+            "company": "Bano Qabil 3.0",
+            "tasks": "I'm certified from Banu Qabil, and I got 3rd place in my course.",
+    "tags": ["Html,", "Css", "Typescript", "Bootstrap", "Javascript"],
             "year": "2024"
         },
         {
-            "title": "Fontend Engineer",
-            "company": "Apple",
-            "tasks": "Designed and implemented responsive user interfaces for various Apple products, ensuring seamless user experiences across devices.",
-            "tags": ["React", "Typescript", "Redux", "GraphQL"],
-            "year": "2022"
-        },
-        {
-            "title": "Backend Developer",
-            "company": "Microsoft",
-            "tasks": "Developed scalable backend services for Microsoft's cloud platform, enabling efficient data processing and storage for enterprise applications.",
-            "tags": ["Java EE", "Springboot", "REST"],
-            "year": "2020"
+            "title": "Governor initiative program giaic",
+            "company": "Governor House",
+            "tasks": "",
+            "tags": ["Typescript", "Front enf development", "NextJS"],
+            "year": "2024"
         }
     ]
 }

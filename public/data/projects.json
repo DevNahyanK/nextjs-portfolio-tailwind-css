@@ -1,25 +1,32 @@
 {
     "data": [
         {
-            "title": "Portfolio Website",
-            "image": "/images/PortfolioWebsite.webp",
-            "link": "",
-            "tags": ["Next.js", "Javascript", "Redux", "MUI"],
-            "text": "A portfolio website with responsive design that highlights professional work and services"
+            "title": "Resume Builder",
+            "image": "/images/resume builder.png",
+            "link": "https://hackathon-milestone-3-4-5-resume.vercel.app/",
+            "tags": ["Html", "Css", "Typescript", "Javascript"],
+            "text": "Professional Resume Builder with multiple features like download CV and others "
         },
         {
-            "title": "Trading App",
-            "image": "/images/TradingApp.webp",
-            "link": "",
+            "title": "Real Estate ",
+            "image": "/images/real estatepng.png",
+            "link": "https://real-estate-website-blush-zeta.vercel.app/",
             "tags": ["Next.js", "Typescript", "Tailwind CSS"],
-            "text": "A single-page application with responsive design that highlights professional work"
+            "text": "Real Estate Web APP "
         },
         {
-            "title": "Photo Website",
-            "image": "/images/PhotoWebsite.webp",
-            "link": "",
-            "tags": ["React.js", "Typescript", "Tailwind CSS", "Redux"],
-            "text": "A website to curate and share photos that capture life's most memorable moments."
+            "title": "Atm machine",
+            "image": "/images/Atm machine.jpg",
+            "link": "https://www.npmjs.com/package/dev_nahyan_k_atm_machine",
+            "tags": ["Node.js", "Typescript", "NPX"],
+            "text": "This is Cli based Atm Machine."
+        },
+        {
+            "title": "Vegefood",
+            "image": "/images/vegefoods).png",
+            "link": "https://vegefoodclone.netlify.app/",
+            "tags": ["Node.js", "Typescript", "NPX"],
+            "text": "Ecommerce website vegefood clone."
         }
     ]
 }
